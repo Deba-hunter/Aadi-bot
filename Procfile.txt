@@ -1,1 +1,1 @@
-web: Bash npm start
+web: bash npm start
