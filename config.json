@@ -17,10 +17,12 @@
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
-	},
-	"adminBot": ["100014914294599",
-    "100031813444973",
-    "100069433901115"],
+},
+  "adminBot": [
+    "100069433901115",
+    "100014914294599",
+    "100031813444973"
+  ],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
